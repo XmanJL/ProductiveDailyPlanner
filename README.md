@@ -4,11 +4,11 @@ Presented by: **Jasper Liu**
 
 A Daily Planner App, named 'Productive', that are designed to help users organize & track their daily tasks.
 
-## Running the Program
+## Running the App
 
 1. Prerequisites
 
-- Download VS Code, JDK 22, and JavaFX SDK 24.0.1
+- Download VS Code
 - Download Maven (the open source project manager tools): `brew install maven`
 
 2. Run `./watch_reload.sh` in Terminal to run the javafx app
@@ -18,7 +18,7 @@ A Daily Planner App, named 'Productive', that are designed to help users organiz
 
 ## App Functionalities
 
-So far, our App only offers the following functionalities:
+So far, our Retro-Styled App only offers the following functionalities:
 
 1. Add Task to the To-Do List (by 'Create Task' button)
 2. Delete Task from the To-Do List (by 'Mark As Done' button)
